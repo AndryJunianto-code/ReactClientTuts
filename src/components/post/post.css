@@ -1,0 +1,5 @@
+.postImg {
+  width: 200px;
+  height: 170px;
+  object-fit: cover;
+}
